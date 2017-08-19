@@ -1,0 +1,22 @@
+﻿  Parallel_processing.cpp
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(39): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(50): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(53): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(97): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(104): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(107): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(128): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(135): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(138): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(152): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(172): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(175): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(176): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(182): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(182): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(186): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\khoa1\documents\visual studio 2015\projects\parallel_processing\parallel_processing\parallel_processing.cpp(188): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Original.cpp
+  Generating Code...
+  Parallel_processing.vcxproj -> C:\Users\khoa1\documents\visual studio 2015\Projects\Parallel_processing\Debug\Parallel_processing.exe
+  Parallel_processing.vcxproj -> C:\Users\khoa1\documents\visual studio 2015\Projects\Parallel_processing\Debug\Parallel_processing.pdb (Partial PDB)
